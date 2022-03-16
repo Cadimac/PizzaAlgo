@@ -1,0 +1,5 @@
+Decide which business to order from 
+Decide which Type of Pizza to order
+Place Order
+Pay for Pizza
+Delivery or pickup
