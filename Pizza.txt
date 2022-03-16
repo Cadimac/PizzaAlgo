@@ -1,5 +1,7 @@
 Decide which business to order from 
 Decide which Type of Pizza to order
 Place Order
-Pay for Pizza
+Pay for Pizza 4a Credit card or cash
 Delivery or pickup
+Enjoy Pizza
+Recycle Box
